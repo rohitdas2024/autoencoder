@@ -1,0 +1,1 @@
+{'resume': '', 'debug': False, 'gpu': '0', 'data_root': './datasets', 'train_file': './datasets/train.txt', 'val_file': './datasets/val.txt', 'model': 'resnet101', 'batch_size': 12, 'display': False}
